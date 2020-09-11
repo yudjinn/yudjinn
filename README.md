@@ -59,13 +59,10 @@
 
 ---
 
-<details>
-  <summary>📝 Latest blog posts: </summary>
+📝 Latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-</details>
 
 [website]: https://jacobcrodgers.com
 [twitter]: https://twitter.com/settopvox
