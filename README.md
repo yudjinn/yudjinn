@@ -10,7 +10,7 @@
 - 🥅 2020 Goals:
   - Secure a position! 🏢
   - Contribute to more Open Source!
-  - Survive Covid 😅
+  - Survive Quarantine 😅
 - 💬 Ask me about my history as a Chemical Engineer
 - ⚡ Fun fact: I was published during my undergrad for work that had little to do with my major!
 
@@ -49,7 +49,7 @@
 ---
 
 <details>
-  <summary> Latest blog posts: </summary>
+  <summary>📝 Latest blog posts: </summary>
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -60,7 +60,7 @@
 ---
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>📊 Github Stats</summary>
 
   <img align="left" alt="yudjinn's Github Stats" src="https://github-readme-stats.yudjinn.vercel.app/api?username=yudjinn&show_icons=true&hide_border=true&hide=stars&count_private=true" />
 
