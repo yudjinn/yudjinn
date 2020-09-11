@@ -56,6 +56,7 @@
 📝 Latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [First Post](https://dev.to/yudjinn/first-post-3dg1)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://jacobcrodgers.com
