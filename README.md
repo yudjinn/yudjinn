@@ -34,7 +34,6 @@
 <img alt="React" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img alt="MySQL" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> <img alt="Git" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img alt="GitHub" width="52px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <img alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
 [![Top Langs](https://github-readme-stats.yudjinn.vercel.app/api/top-langs/?username=yudjinn)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -54,20 +53,17 @@
 
 ---
 
+### 📊 Github Stats
+
+<img align="left" alt="yudjinn's Github Stats" src="https://github-readme-stats.yudjinn.vercel.app/api?username=yudjinn&show_icons=true&hide_border=true&hide=stars&count_private=true" />
+
+---
+
 <details>
   <summary>📝 Latest blog posts: </summary>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-</details>
-
----
-
-<details>
-  <summary>📊 Github Stats</summary>
-
-  <img align="left" alt="yudjinn's Github Stats" src="https://github-readme-stats.yudjinn.vercel.app/api?username=yudjinn&show_icons=true&hide_border=true&hide=stars&count_private=true" />
 
 </details>
 
