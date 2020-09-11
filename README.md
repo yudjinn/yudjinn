@@ -56,7 +56,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 </details>
-<br />
 
 ---
 
