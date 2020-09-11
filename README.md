@@ -52,7 +52,6 @@
   <summary>📝 Latest blog posts: </summary>
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 </details>
