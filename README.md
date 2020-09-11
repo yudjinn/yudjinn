@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=jacobcrodgers.com&style=for-the-badge&url=https%3A%2F%2Fjacobcrodgers.com)](https://jacobcrodgers.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SetTopVox?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyudjinn&screen_name=settopvox)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacob-rodgers)
 
 ## I'm a developer that wants to see the world become 'smart' and intuitive.
 
@@ -18,13 +19,6 @@
 
 [<img src="https://spotify-now-playing.yudjinn.vercel.app/api/spotify-playing" alt="yudjinn Spotify Playing" width="350" />](https://open.spotify.com/user/settopvox)
 
-### Connect with me:
-
-[<img align="left" alt="yudjinn | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />][linkedin]
-[<img align="left" alt="yudjinn | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  />][twitter]
-[<img align="left" alt="yudjinn | Website" width="44px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />][website]
-
-<br />
 <br />
 
 ### Languages and Frameworks:
