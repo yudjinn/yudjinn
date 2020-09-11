@@ -11,5 +11,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+<<<<<<< HEAD
           feed_list: 'https://dev.to/feed/yudjinn'
           max_post_count: 1
+=======
+          feed_list: 'https://dev.to/feed/gautamkrishnar'
+>>>>>>> 6291e34bb0e2a167ec49ffca5e943f70ee56397d
