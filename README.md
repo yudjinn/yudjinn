@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com//yudjinn/react-portfolio/pull/1) in [yudjinn/react-portfolio](https://github.com//yudjinn/react-portfolio)
-2. 💪 Opened PR [#1](https://github.com//yudjinn/react-portfolio/pull/1) in [yudjinn/react-portfolio](https://github.com//yudjinn/react-portfolio)
-3. 🎉 Merged PR [#16](https://github.com//oneleif/onefit/pull/16) in [oneleif/onefit](https://github.com//oneleif/onefit)
-4. ❗️ Closed issue [#15](https://github.com//oneleif/onefit/issues/15) in [oneleif/onefit](https://github.com//oneleif/onefit)
-5. ❌ Closed PR [#17](https://github.com//oneleif/onefit/pull/17) in [oneleif/onefit](https://github.com//oneleif/onefit)
+1. 🎉 Merged PR [#1](https://github.com/yudjinn/react-portfolio/pull/1) in [yudjinn/react-portfolio](https://github.com/yudjinn/react-portfolio)
+2. 💪 Opened PR [#1](https://github.com/yudjinn/react-portfolio/pull/1) in [yudjinn/react-portfolio](https://github.com/yudjinn/react-portfolio)
+3. 🎉 Merged PR [#16](https://github.com/oneleif/onefit/pull/16) in [oneleif/onefit](https://github.com/oneleif/onefit)
+4. ❗️ Closed issue [#15](https://github.com/oneleif/onefit/issues/15) in [oneleif/onefit](https://github.com/oneleif/onefit)
+5. ❌ Closed PR [#17](https://github.com/oneleif/onefit/pull/17) in [oneleif/onefit](https://github.com/oneleif/onefit)
 
 <!--END_SECTION:activity-->
 
