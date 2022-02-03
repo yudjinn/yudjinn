@@ -6,12 +6,11 @@
 
 ## I'm a developer that wants to see the world become 'smart' and intuitive.
 
-- 🔭 I’m currently heading [onefit 💪][onefit] as well as some embedded smart home systems using [esphome][esphome]
-- 🌱 I’m currently learning ... everything! My main foci are Python, React, and Rust 😄
-- 🥅 2020 Goals:
-  - Secure a position! 🏢
+- 🔭 I'm currently working as a Lead Software Engineer in a data-heavy ETL system!
+- 🌱 I'm actively contributing to OSS and enjoying the community.
+- 🥅 2022 Goals:
   - Contribute to more Open Source!
-  - Survive Quarantine 😅
+  - Continue to grow my development capabilities
 - 💬 Ask me about my history as a Chemical Engineer
 - ⚡ Fun fact: I was published during my undergrad for work that had little to do with my major!
 
@@ -62,5 +61,3 @@
 [website]: https://jacobcrodgers.com
 [twitter]: https://twitter.com/settopvox
 [linkedin]: https://linkedin.com/in/jacob-rodgers
-[onefit]: https://github.com/oneleif/onefit
-[esphome]: https://esphome.io/
