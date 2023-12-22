@@ -7,13 +7,8 @@
 
 ## I'm a developer that wants to see the world become 'smart' and intuitive.
 
-- 🔭 I'm currently working as a Lead Software Engineer in a data-heavy ETL system!
+- 🔭 I'm currently working as Linux release engineer, using yocto to build and maintain embedded systems
 - 🌱 I'm actively contributing to OSS and enjoying the community.
-- 🥅 2022 Goals:
-  - Contribute to more Open Source!
-  - Continue to grow my development capabilities
-- 💬 Ask me about my history as a Chemical Engineer
-- ⚡ Fun fact: I was published during my undergrad for work that had little to do with my major!
 
 ### Spotify Playing 🎧
 
@@ -23,9 +18,10 @@
 
 ### Languages and Frameworks:
 
-<img alt="Python" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img alt="Visual Studio Code" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img alt="HTML5" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img alt="CSS3" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img alt="Sass" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img alt="JavaScript" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="Rust" width="52px" src="https://c0.klipartz.com/pngpicture/424/752/gratis-png-mozilla-foundation-sistema-de-lenguaje-de-programacion-de-oxido-matraz.png"/> <img alt="Python" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img alt="Helix" width="52px" src="https://avatars.githubusercontent.com/u/66235900?s=200&v=4"/> 
+<img alt="Visual Studio Code" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 
-<img alt="React" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img alt="MySQL" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> <img alt="Git" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img alt="GitHub" width="52px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <img alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="Git" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img alt="GitHub" width="52px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <img alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 
@@ -59,6 +55,6 @@
 - [First Post](https://dev.to/yudjinn/first-post-3dg1)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://jacobcrodgers.com
+[website]: https://yudjinn.dev
 [twitter]: https://twitter.com/settopvox
 [linkedin]: https://linkedin.com/in/jacob-rodgers
