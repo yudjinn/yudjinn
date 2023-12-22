@@ -3,7 +3,7 @@
 <!-- [![Website](https://img.shields.io/website?label=jacobcrodgers.com&style=for-the-badge&url=https%3A%2F%2Fjacobcrodgers.com)](https://jacobcrodgers.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/SetTopVox?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyudjinn&screen_name=settopvox)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacob-rodgers)
-[![Ko-fi](https://az743702.vo.msecnd.net/cfn/kobi3.png?v=0)](https://ko-fi.com/yudjinn)
+[![Ko-fi](https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0)](https://ko-fi.com/yudjinn)
 
 ## I'm a developer that wants to see the world become 'smart' and intuitive.
 
